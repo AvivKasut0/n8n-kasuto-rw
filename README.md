@@ -1,4 +1,4 @@
-# n8n example
+# Kn8n example
 
 This example deploys a self-hosted version of [n8n](https://n8n.io/). Internally it uses a PostgreSQL database to store the data.
 
